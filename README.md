@@ -47,21 +47,7 @@ _Em andamento_
 
 ## Projeto em destaque
 
-### Hospibuy
 
-Plataforma conceitual voltada para a **gestão de compras e descartes hospitalares**.
-
-O projeto tem como objetivo propor uma solução digital para auxiliar instituições de saúde na organização de processos internos, especialmente relacionados à aquisição de materiais, controle de compras e descarte adequado de itens hospitalares.
-
-**Principais pontos do projeto:**
-
-- Organização de compras hospitalares
-- Apoio ao controle de materiais
-- Gestão de descartes
-- Melhoria de processos internos
-- Aplicação de tecnologia no ambiente hospitalar
-
----
 
 ## Competências em desenvolvimento
 
